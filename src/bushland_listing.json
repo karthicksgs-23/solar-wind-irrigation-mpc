@@ -1,0 +1,444 @@
+{
+ "24855957": {
+  "what": "water balance (ET, irrigation, rain, drainage)",
+  "title": "Evapotranspiration, Irrigation, Dew/frost - Water Balance Data for The Bushland, Texas Maize for Grain Datasets",
+  "doi": "10.15482/USDA.ADC/1526334",
+  "license": "CC0",
+  "files": [
+   {
+    "name": "1989_Maize_water_balance.xlsx",
+    "size": 3784062,
+    "download_url": "https://ndownloader.figshare.com/files/44531624"
+   },
+   {
+    "name": "1990_Maize_water_balance.xlsx",
+    "size": 3802801,
+    "download_url": "https://ndownloader.figshare.com/files/44531627"
+   },
+   {
+    "name": "1994_Maize_water_balance.xlsx",
+    "size": 3706292,
+    "download_url": "https://ndownloader.figshare.com/files/44531630"
+   },
+   {
+    "name": "2013_Maize_water_balance.xlsx",
+    "size": 4304931,
+    "download_url": "https://ndownloader.figshare.com/files/44531633"
+   },
+   {
+    "name": "2016_Maize_water_balance.xlsx",
+    "size": 4963828,
+    "download_url": "https://ndownloader.figshare.com/files/44531636"
+   },
+   {
+    "name": "2018_Maize_water_balance.xlsx",
+    "size": 4983418,
+    "download_url": "https://ndownloader.figshare.com/files/44531639"
+   }
+  ]
+ },
+ "24855909": {
+  "what": "growth and yield",
+  "title": "Growth and Yield Data for the Bushland, Texas Maize for Grain Datasets",
+  "doi": "10.15482/USDA.ADC/1526328",
+  "license": "CC0",
+  "files": [
+   {
+    "name": "1989_East_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 46759,
+    "download_url": "https://ndownloader.figshare.com/files/44531528"
+   },
+   {
+    "name": "1990_East_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 56959,
+    "download_url": "https://ndownloader.figshare.com/files/44531531"
+   },
+   {
+    "name": "1994_East_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 55720,
+    "download_url": "https://ndownloader.figshare.com/files/44531534"
+   },
+   {
+    "name": "1994_West_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 56494,
+    "download_url": "https://ndownloader.figshare.com/files/44531540"
+   },
+   {
+    "name": "2013_West_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 98534,
+    "download_url": "https://ndownloader.figshare.com/files/44531546"
+   },
+   {
+    "name": "2016_East_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 376200,
+    "download_url": "https://ndownloader.figshare.com/files/44531549"
+   },
+   {
+    "name": "2016_West_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 116411,
+    "download_url": "https://ndownloader.figshare.com/files/44531555"
+   },
+   {
+    "name": "2018_East_Maize_Growth_and_Yield(ADC)_0.xlsx",
+    "size": 107422,
+    "download_url": "https://ndownloader.figshare.com/files/44531561"
+   },
+   {
+    "name": "2018_West_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 112901,
+    "download_url": "https://ndownloader.figshare.com/files/44531564"
+   },
+   {
+    "name": "2013_East_Maize_Growth_and_Yield(ADC).xlsx",
+    "size": 122546,
+    "download_url": "https://ndownloader.figshare.com/files/44531567"
+   }
+  ]
+ },
+ "24855873": {
+  "what": "agronomic calendars",
+  "title": "Agronomic Calendars for the Bushland, Texas Maize for Grain Datasets",
+  "doi": "10.15482/USDA.ADC/1526331",
+  "license": "CC0",
+  "files": [
+   {
+    "name": "1989_East_Maize_Calendar.xlsx",
+    "size": 17769,
+    "download_url": "https://ndownloader.figshare.com/files/44531468"
+   },
+   {
+    "name": "1990_East_Maize_Calendar.xlsx",
+    "size": 18494,
+    "download_url": "https://ndownloader.figshare.com/files/44531471"
+   },
+   {
+    "name": "1994_East_Maize_Calendar.xlsx",
+    "size": 19291,
+    "download_url": "https://ndownloader.figshare.com/files/44531474"
+   },
+   {
+    "name": "1994_West_Maize_Calendar.xlsx",
+    "size": 17042,
+    "download_url": "https://ndownloader.figshare.com/files/44531477"
+   },
+   {
+    "name": "2013_East_Maize-Calendar.xlsx",
+    "size": 16801,
+    "download_url": "https://ndownloader.figshare.com/files/44531480"
+   },
+   {
+    "name": "2013_West_Maize_Calendar.xlsx",
+    "size": 16626,
+    "download_url": "https://ndownloader.figshare.com/files/44531483"
+   },
+   {
+    "name": "2016_East_Maize_Calendar_0.xlsx",
+    "size": 18204,
+    "download_url": "https://ndownloader.figshare.com/files/44531486"
+   },
+   {
+    "name": "2016_West_Maize_Calendar_0.xlsx",
+    "size": 17091,
+    "download_url": "https://ndownloader.figshare.com/files/44531489"
+   },
+   {
+    "name": "2018_East_Maize_Calendar_0.xlsx",
+    "size": 18870,
+    "download_url": "https://ndownloader.figshare.com/files/44531492"
+   },
+   {
+    "name": "2018_West_Maize_Calendar.xlsx",
+    "size": 17438,
+    "download_url": "https://ndownloader.figshare.com/files/44531495"
+   }
+  ]
+ },
+ "24855858": {
+  "what": "soil water content (all crops)",
+  "title": "Soil Water Content Data for The Bushland, Texas Large Weighing Lysimeter Experiments",
+  "doi": "10.15482/USDA.ADC/1526332",
+  "license": "CC0",
+  "files": [
+   {
+    "name": "1989_East_Maize_Soil-water.xlsx",
+    "size": 460783,
+    "download_url": "https://ndownloader.figshare.com/files/44531285"
+   },
+   {
+    "name": "1990_East_Maize_Soil-water.xlsx",
+    "size": 396853,
+    "download_url": "https://ndownloader.figshare.com/files/44531288"
+   },
+   {
+    "name": "1994_East_Maize_Soil-water.xlsx",
+    "size": 323419,
+    "download_url": "https://ndownloader.figshare.com/files/44531291"
+   },
+   {
+    "name": "1994_West_Maize_Soil-water.xlsx",
+    "size": 380176,
+    "download_url": "https://ndownloader.figshare.com/files/44531294"
+   },
+   {
+    "name": "2013_East_Maize_Soil-water.xlsx",
+    "size": 445639,
+    "download_url": "https://ndownloader.figshare.com/files/44531297"
+   },
+   {
+    "name": "2013_West_Maize_Soil-water.xlsx",
+    "size": 461199,
+    "download_url": "https://ndownloader.figshare.com/files/44531300"
+   },
+   {
+    "name": "2016_East_Maize_Soil-water.xlsx",
+    "size": 557658,
+    "download_url": "https://ndownloader.figshare.com/files/44531303"
+   },
+   {
+    "name": "2016_West_Maize_Soil-water.xlsx",
+    "size": 537016,
+    "download_url": "https://ndownloader.figshare.com/files/44531306"
+   },
+   {
+    "name": "2018_East_Maize_Soil-water.xlsx",
+    "size": 574864,
+    "download_url": "https://ndownloader.figshare.com/files/44531309"
+   },
+   {
+    "name": "2018_West_Maize_Soil-water.xlsx",
+    "size": 538478,
+    "download_url": "https://ndownloader.figshare.com/files/44531312"
+   },
+   {
+    "name": "1989-90_West_Winter-Wheat_Soil-water_0.xlsx",
+    "size": 321299,
+    "download_url": "https://ndownloader.figshare.com/files/44531315"
+   },
+   {
+    "name": "1991-92_East_Winter-Wheat_Soil-water_0.xlsx",
+    "size": 260871,
+    "download_url": "https://ndownloader.figshare.com/files/44531318"
+   },
+   {
+    "name": "1992-93_West_Winter-Wheat_Soil-water_0.xlsx",
+    "size": 305902,
+    "download_url": "https://ndownloader.figshare.com/files/44531321"
+   },
+   {
+    "name": "2009_East_Sunflower_Soil-water.xlsx",
+    "size": 320407,
+    "download_url": "https://ndownloader.figshare.com/files/44531327"
+   },
+   {
+    "name": "2011_East_Sunflower_Soil-water.xlsx",
+    "size": 406174,
+    "download_url": "https://ndownloader.figshare.com/files/44531330"
+   },
+   {
+    "name": "2003_East_Soybean_Soil-water.xlsx",
+    "size": 531155,
+    "download_url": "https://ndownloader.figshare.com/files/44531333"
+   },
+   {
+    "name": "2004_East_Soybean_Soil-water.xlsx",
+    "size": 449670,
+    "download_url": "https://ndownloader.figshare.com/files/44531336"
+   },
+   {
+    "name": "2010_West_Soybean_Soil-water.xlsx",
+    "size": 310131,
+    "download_url": "https://ndownloader.figshare.com/files/44531339"
+   },
+   {
+    "name": "2019_East_Soybean_Soil-water.xlsx",
+    "size": 664123,
+    "download_url": "https://ndownloader.figshare.com/files/44531342"
+   },
+   {
+    "name": "2019_West_Soybean_Soil-water.xlsx",
+    "size": 567484,
+    "download_url": "https://ndownloader.figshare.com/files/44531345"
+   },
+   {
+    "name": "1995_West_Soybean_Soil-water_0.xlsx",
+    "size": 306269,
+    "download_url": "https://ndownloader.figshare.com/files/44531348"
+   },
+   {
+    "name": "2000_East_Cotton_Soil-water.xlsx",
+    "size": 320798,
+    "download_url": "https://ndownloader.figshare.com/files/44531357"
+   },
+   {
+    "name": "2000_West_Cotton_Soil-water.xlsx",
+    "size": 310122,
+    "download_url": "https://ndownloader.figshare.com/files/44531360"
+   },
+   {
+    "name": "2001_East_Cotton_Soil-water.xlsx",
+    "size": 327385,
+    "download_url": "https://ndownloader.figshare.com/files/44531363"
+   },
+   {
+    "name": "2001_West_Cotton_Soil-water.xlsx",
+    "size": 306543,
+    "download_url": "https://ndownloader.figshare.com/files/44531366"
+   },
+   {
+    "name": "2002_East_Cotton_Soil-water.xlsx",
+    "size": 346468,
+    "download_url": "https://ndownloader.figshare.com/files/44531372"
+   },
+   {
+    "name": "2004_West_Cotton-sorghum_Soil-water.xlsx",
+    "size": 293190,
+    "download_url": "https://ndownloader.figshare.com/files/44531375"
+   },
+   {
+    "name": "2008_East_Cotton_Soil-water.xlsx",
+    "size": 380031,
+    "download_url": "https://ndownloader.figshare.com/files/44531378"
+   },
+   {
+    "name": "2008_West_Cotton_Soil-water.xlsx",
+    "size": 369300,
+    "download_url": "https://ndownloader.figshare.com/files/44531381"
+   },
+   {
+    "name": "2010_East_Cotton_Soil-water.xlsx",
+    "size": 377763,
+    "download_url": "https://ndownloader.figshare.com/files/44531384"
+   },
+   {
+    "name": "2012_West_Cotton_Soil-water.xlsx",
+    "size": 585565,
+    "download_url": "https://ndownloader.figshare.com/files/44531387"
+   },
+   {
+    "name": "2020_East_Cotton_Soil-water.xlsx",
+    "size": 495689,
+    "download_url": "https://ndownloader.figshare.com/files/44531390"
+   },
+   {
+    "name": "2020_West_Cotton_Soil-water.xlsx",
+    "size": 496282,
+    "download_url": "https://ndownloader.figshare.com/files/44531393"
+   },
+   {
+    "name": "2021_East_Cotton_Soil-water.xlsx",
+    "size": 560881,
+    "download_url": "https://ndownloader.figshare.com/files/44531396"
+   },
+   {
+    "name": "2021_West_Cotton_Soil-water.xlsx",
+    "size": 538255,
+    "download_url": "https://ndownloader.figshare.com/files/44531399"
+   },
+   {
+    "name": "2003_West_Sorghum-cotton_Soil-water.xlsx",
+    "size": 307352,
+    "download_url": "https://ndownloader.figshare.com/files/44531402"
+   },
+   {
+    "name": "1988_West_Sorghum_Soil-water.xlsx",
+    "size": 517444,
+    "download_url": "https://ndownloader.figshare.com/files/44531405"
+   },
+   {
+    "name": "1991_West_Sorghum_Soil-water.xlsx",
+    "size": 288045,
+    "download_url": "https://ndownloader.figshare.com/files/44531408"
+   },
+   {
+    "name": "1993_East_Sorghum_Soil-water.xlsx",
+    "size": 315027,
+    "download_url": "https://ndownloader.figshare.com/files/44531411"
+   },
+   {
+    "name": "1997_West_Sorghum_Soil-water.xlsx",
+    "size": 302116,
+    "download_url": "https://ndownloader.figshare.com/files/44531414"
+   },
+   {
+    "name": "1998_West_Sorghum_Soil-water.xlsx",
+    "size": 345099,
+    "download_url": "https://ndownloader.figshare.com/files/44531417"
+   },
+   {
+    "name": "1999_West_Sorghum_Soil-water.xlsx",
+    "size": 307428,
+    "download_url": "https://ndownloader.figshare.com/files/44531420"
+   },
+   {
+    "name": "2005_East_Sorghum_Soil-water.xlsx",
+    "size": 409878,
+    "download_url": "https://ndownloader.figshare.com/files/44531423"
+   },
+   {
+    "name": "2006_West_Sorghum_Soil-water.xlsx",
+    "size": 253510,
+    "download_url": "https://ndownloader.figshare.com/files/44531426"
+   },
+   {
+    "name": "2007_East_maize-sorghum-forage_Soil-water.xlsx",
+    "size": 455514,
+    "download_url": "https://ndownloader.figshare.com/files/44531429"
+   },
+   {
+    "name": "2007_West_Sorghum_Soil-water.xlsx",
+    "size": 331577,
+    "download_url": "https://ndownloader.figshare.com/files/44531432"
+   },
+   {
+    "name": "2014_East_Sorghum_Soil-water.xlsx",
+    "size": 665520,
+    "download_url": "https://ndownloader.figshare.com/files/44531435"
+   },
+   {
+    "name": "2014_West_Sorghum_Soil-water.xlsx",
+    "size": 598256,
+    "download_url": "https://ndownloader.figshare.com/files/44531438"
+   },
+   {
+    "name": "2015_East_Sorghum_Soil-water.xlsx",
+    "size": 569163,
+    "download_url": "https://ndownloader.figshare.com/files/44531441"
+   },
+   {
+    "name": "2015_West_Sorghum_Soil-water.xlsx",
+    "size": 555651,
+    "download_url": "https://ndownloader.figshare.com/files/44531444"
+   },
+   {
+    "name": "1996_East_Alfalfa_Soil-water (1).xlsx",
+    "size": 354297,
+    "download_url": "https://ndownloader.figshare.com/files/44531450"
+   },
+   {
+    "name": "1997_East_Alfalfa_Soil-water_0.xlsx",
+    "size": 290693,
+    "download_url": "https://ndownloader.figshare.com/files/44531453"
+   },
+   {
+    "name": "1998_East_Alfalfa_Soil-water_0.xlsx",
+    "size": 307496,
+    "download_url": "https://ndownloader.figshare.com/files/44531456"
+   },
+   {
+    "name": "1999_East_Alfalfa_Soil-water_0.xlsx",
+    "size": 301536,
+    "download_url": "https://ndownloader.figshare.com/files/44531459"
+   },
+   {
+    "name": "1995_East_Alfalfa_Soil-water_0.xlsx",
+    "size": 261571,
+    "download_url": "https://ndownloader.figshare.com/files/44531462"
+   },
+   {
+    "name": "README_Evett.txt",
+    "size": 26936,
+    "download_url": "https://ndownloader.figshare.com/files/44531465"
+   }
+  ]
+ }
+}

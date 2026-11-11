@@ -1,0 +1,6 @@
+{
+  "bushland_tx": {"name": "Bushland, Texas, USA", "lat": 35.186, "lon": -102.094, "role": "crop-water validation (USDA-ARS weighing lysimeters) and case study", "region": "Southern High Plains, Ogallala aquifer"},
+  "jodhpur_in": {"name": "Jodhpur, Rajasthan, India", "lat": 26.25, "lon": 73.02, "role": "case study", "region": "Thar desert margin"},
+  "souss_ma": {"name": "Taroudant, Souss-Massa, Morocco", "lat": 30.47, "lon": -8.88, "role": "case study", "region": "Souss-Massa basin, solar-pumped groundwater irrigation"},
+  "azraq_jo": {"name": "Azraq, Jordan", "lat": 31.83, "lon": 36.82, "role": "case study (held-out site candidate)", "region": "Azraq basin, over-abstracted aquifer"}
+}

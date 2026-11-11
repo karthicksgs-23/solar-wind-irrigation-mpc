@@ -1,0 +1,178 @@
+{
+ "run_utc": "2026-10-30T11:21:07.683029+00:00",
+ "python": "3.13.16",
+ "pandas": "2.2.3",
+ "numpy": "2.1.3",
+ "scipy": "1.16.3",
+ "sklearn": "1.6.1",
+ "sb3": "2.9.2",
+ "gymnasium": "1.4.0",
+ "aquacrop": "3.1.0",
+ "seeds": [
+  0,
+  1,
+  2
+ ],
+ "hyb_steps": 60000,
+ "drl_steps": 150000,
+ "n_envs": 2,
+ "gamma": 0.995,
+ "aq_reward": true,
+ "sec_per_aquacrop_season": 0.3050602674484253,
+ "price_usd_t": 200.0,
+ "design": "least_cost",
+ "tuned": {
+  "bushland_tx": {
+   "reserve": 0.75,
+   "dr_target": 1.0
+  },
+  "jodhpur_in": {
+   "reserve": 1.0,
+   "dr_target": 1.0
+  },
+  "souss_ma": {
+   "reserve": 1.0,
+   "dr_target": 0.5
+  },
+  "azraq_jo": {
+   "reserve": 1.0,
+   "dr_target": 1.0
+  }
+ },
+ "tune_grid": {
+  "reserve": [
+   0.5,
+   0.75,
+   0.9,
+   1.0
+  ],
+  "dr_target": [
+   0.5,
+   0.75,
+   1.0,
+   1.25,
+   1.5
+  ]
+ },
+ "tune_years": [
+  2014,
+  2015,
+  2016
+ ],
+ "cal_years": [
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016
+ ],
+ "crop_fit": {
+  "bushland_tx": {
+   "p": 0.125,
+   "ky": 1.95,
+   "rmse_cal": 0.1273966603984463,
+   "rmse_default": 0.28340623876601667,
+   "n": 64,
+   "r2": 0.747550875758918,
+   "ymax_train_mean": 13.099984884038285,
+   "on_grid_edge": false
+  },
+  "jodhpur_in": {
+   "p": 0.125,
+   "ky": 0.65,
+   "rmse_cal": 0.11734965758534299,
+   "rmse_default": 0.1329145451815907,
+   "n": 64,
+   "r2": 0.19381177748131806,
+   "ymax_train_mean": 13.438653347233586,
+   "on_grid_edge": false
+  },
+  "souss_ma": {
+   "p": 0.1,
+   "ky": 2.35,
+   "rmse_cal": 0.13069965190678806,
+   "rmse_default": 0.377704568579088,
+   "n": 64,
+   "r2": 0.7803694212856065,
+   "ymax_train_mean": 12.802825498925074,
+   "on_grid_edge": true
+  },
+  "azraq_jo": {
+   "p": 0.1,
+   "ky": 3.0,
+   "rmse_cal": 0.17432119410891841,
+   "rmse_default": 0.5133488009597149,
+   "n": 64,
+   "r2": 0.7198813759814657,
+   "ymax_train_mean": 12.903237805495067,
+   "on_grid_edge": true
+  }
+ },
+ "soil": {
+  "bushland_tx": {
+   "theta_fc": 0.3645,
+   "theta_wp": 0.25
+  },
+  "jodhpur_in": {
+   "theta_fc": 0.3491,
+   "theta_wp": 0.103
+  },
+  "souss_ma": {
+   "theta_fc": 0.2846,
+   "theta_wp": 0.1395
+  },
+  "azraq_jo": {
+   "theta_fc": 0.3565,
+   "theta_wp": 0.2193
+  }
+ },
+ "sow": {
+  "bushland_tx": "05-15",
+  "jodhpur_in": "07-01",
+  "souss_ma": "03-15",
+  "azraq_jo": "04-01"
+ },
+ "cost_weights": {
+  "shed": 50.0,
+  "water": 0.05,
+  "cyc": 0.02
+ },
+ "repro_check_op_cost": 4452.264948365333,
+ "train": [
+  2001,
+  2002,
+  2003,
+  2004,
+  2005,
+  2006,
+  2007,
+  2008,
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016
+ ],
+ "val": [
+  2017,
+  2018,
+  2019
+ ],
+ "test": [
+  2020,
+  2021,
+  2022,
+  2023,
+  2024
+ ],
+ "resumed_agents_at_step": {
+  "drl_jodhpur_in_s1": 65700
+ },
+ "ckpt_every": 7300
+}

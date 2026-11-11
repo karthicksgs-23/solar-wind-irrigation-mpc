@@ -1,0 +1,48 @@
+{
+ "run_utc": "2026-10-26T12:08:50.785731+00:00",
+ "python": "3.13.16",
+ "pandas": "2.2.3",
+ "numpy": "2.1.3",
+ "aquacrop": "3.1.0",
+ "notebook_version": "v2",
+ "duration_parameter": "MaturityCD",
+ "best_params": {
+  "WP": 33.7,
+  "Kcb": 1.05,
+  "Zmax": 1.2,
+  "MaturityCD": 125.0,
+  "wet_sdi": 1.0
+ },
+ "grid": {
+  "WP": [
+   26.960000000000004,
+   30.330000000000002,
+   33.7
+  ],
+  "Kcb": [
+   0.9450000000000001,
+   0.9974999999999999,
+   1.05
+  ],
+  "Zmax": [
+   1.2,
+   1.5,
+   2.3
+  ],
+  "MaturityCD": [
+   125,
+   132,
+   139
+  ],
+  "wet_sdi": [
+   1,
+   20
+  ]
+ },
+ "assumptions": {
+  "thS": 0.46,
+  "Ksat_mm_d": 40,
+  "WetSurf_sprinkler_pct": 100,
+  "weather": "NASA POWER daily (Tmin, Tmax, ET0 FAO-56); rain and irrigation measured"
+ }
+}

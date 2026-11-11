@@ -1,0 +1,117 @@
+{
+ "run_utc": "2026-10-26T16:14:20.233969+00:00",
+ "python": "3.13.16",
+ "pandas": "2.2.3",
+ "numpy": "2.1.3",
+ "pvlib": "0.16.1",
+ "sow": {
+  "bushland_tx": "05-15",
+  "jodhpur_in": "07-01",
+  "souss_ma": "03-15",
+  "azraq_jo": "04-01"
+ },
+ "head_m": 60.0,
+ "area_ha": 5.0,
+ "pump_hours": 8.0,
+ "grid": {
+  "pv": [
+   0,
+   1,
+   1.5,
+   2,
+   3,
+   4
+  ],
+  "wind": [
+   0,
+   0.5,
+   1,
+   2
+  ],
+  "batt": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "tank": [
+   0.03,
+   0.0625,
+   0.125,
+   0.25,
+   0.5
+  ]
+ },
+ "farm_load_assumed": {
+  "lights": {
+   "kw": 0.06,
+   "window": [
+    18,
+    23
+   ],
+   "minutes": 240
+  },
+  "tv": {
+   "kw": 0.08,
+   "window": [
+    19,
+    23
+   ],
+   "minutes": 150
+  },
+  "workshop": {
+   "kw": 2.0,
+   "window": [
+    9,
+    17
+   ],
+   "minutes": 120
+  },
+  "fridge_kw": 0.15,
+  "fridge_duty": 0.4,
+  "fans_kw": 0.15,
+  "fans_tmax_c": 30.0,
+  "cold_ua_kw_per_k": 0.12,
+  "cold_set_c": 2.0,
+  "cold_cop": 2.0,
+  "cold_base_kw": 0.3
+ },
+ "load_seed": 1,
+ "wlpsp_max": 0.05,
+ "elpsp_max": 0.02,
+ "costs_placeholder": {
+  "pv_per_kwp": 700,
+  "wind_per_kw": 2500,
+  "batt_per_kwh": 350,
+  "tank_per_m3": 100,
+  "pump_per_kw": 900,
+  "om_frac": {
+   "pv": 0.015,
+   "wind": 0.03,
+   "batt": 0.02,
+   "tank": 0.01,
+   "pump": 0.03
+  },
+  "life": {
+   "pv": 25,
+   "wind": 20,
+   "batt": 10,
+   "tank": 25,
+   "pump": 10
+  },
+  "discount": 0.08,
+  "project_years": 25,
+  "diesel_usd_per_l": 1.0,
+  "genset_kwh_per_l": 3.0,
+  "genset_usd_per_kw": 400,
+  "co2_kg_per_l": 2.68
+ },
+ "train": [
+  "2001-01-01",
+  "2016-12-31"
+ ],
+ "test": [
+  "2020-01-01",
+  "2024-12-31"
+ ]
+}

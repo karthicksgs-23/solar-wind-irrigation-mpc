@@ -1,0 +1,18 @@
+{
+ "bushland_tx": {
+  "reserve": 0.75,
+  "dr_target": 1.0
+ },
+ "jodhpur_in": {
+  "reserve": 1.0,
+  "dr_target": 1.0
+ },
+ "souss_ma": {
+  "reserve": 1.0,
+  "dr_target": 0.5
+ },
+ "azraq_jo": {
+  "reserve": 1.0,
+  "dr_target": 1.0
+ }
+}
